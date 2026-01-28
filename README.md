@@ -2,7 +2,7 @@
 # Creación del Chatbot Oficial del Hotel Costa Azul
 > [!tip]
 > #### Manual
-> Ver [Crear Chatbot](Crear Chatbot.pdf)
+> Ver [Crear Chatbot](![](000%20Assets/P1.%20Creación%20del%20Chatbot%20del%20Hotel%20Costa%20Azul/Crear%20Chatbot.pdf)
 
 El **Hotel CostaAzul**, un hotel de 4 estrellas situado en la costa mediterránea, quiere incorporar en su página web y en su aplicación móvil un **chatbot inteligente** que atienda a los clientes de forma automática antes, durante y después de su estancia.
 ## El chatbot deberá ayudar a los usuarios a:
