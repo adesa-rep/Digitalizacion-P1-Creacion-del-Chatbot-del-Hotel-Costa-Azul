@@ -1,4 +1,13 @@
 
+![](000%20Assets/P1.%20Creación%20del%20Chatbot%20del%20Hotel%20Costa%20Azul/P1%20-%20Chatbot%20Hotel%20Costa%20Azul_2.png)
+Tras finalizar el proyecto, he hecho con el una plantilla para poder compartirlo. Puedes acceder a ella a traves del siguiente [enlace](https://templates.landbot.io/hotel-costa-azul-5637/).
+
+Enlace para probar Chatbot para el hotel Costa Azul es [Chatbot Hotel](https://landbot.online/v3/H-3311903-K78FFBK92N2L0L4Y/index.html)
+
+El enlace del documento GoogleSheets donde se guardan/consultan las reservas es [reservas hotel](https://docs.google.com/spreadsheets/d/1iqvtJfgEVy3EzKdblNYT8VVvSt3J_mywCCGavzZnO3I/edit?usp=sharing).
+
+A continuación se indica el enunciado sobre el que se ha desarrollando este proyecto... Esta vez, al ser escazo el contenido de la sección de desarrollo, he considerado oportuno mostrar antes el resultado final.
+
 # Creación del Chatbot Oficial del Hotel Costa Azul
 > [!tip]
 > #### Manual
@@ -78,10 +87,3 @@ Si el chatbot no reconoce la pregunta:
 3. Tener un mensaje comodín para lo que no entienda (mensaje de error + opciones).
 ### Extra opcional (si quieres subir el nivel)
 Guardar el **historial de mensajes** durante la sesión, por ejemplo en GoogleSheets.
-# Desarrollo
-![](000%20Assets/P1.%20Creación%20del%20Chatbot%20del%20Hotel%20Costa%20Azul/P1%20-%20Chatbot%20Hotel%20Costa%20Azul_2.png)
-Tras finalizar el proyecto, he hecho con el una plantilla para poder compartirlo. Puedes acceder a ella a traves del siguiente [enlace](https://templates.landbot.io/hotel-costa-azul-5637/).
-
-Enlace para probar Chatbot para el hotel Costa Azul es [Chatbot Hotel](https://landbot.online/v3/H-3311903-K78FFBK92N2L0L4Y/index.html)
-
-El enlace del documento GoogleSheets donde se guardan/consultan las reservas es [reservas hotel](https://docs.google.com/spreadsheets/d/1iqvtJfgEVy3EzKdblNYT8VVvSt3J_mywCCGavzZnO3I/edit?usp=sharing).
