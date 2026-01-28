@@ -79,7 +79,7 @@ Si el chatbot no reconoce la pregunta:
 ### Extra opcional (si quieres subir el nivel)
 Guardar el **historial de mensajes** durante la sesión, por ejemplo en GoogleSheets.
 # Desarrollo
-![](000%20Assets/P1%20Creacion%20del%20Chatbot%20del%20Hotel%20Costa%20Azul/P1%20-%20Chatbot%20Hotel%20Costa%20Azul_2.png)
+![](000%20Assets/P1.%20Creacion%20del%20Chatbot%20del%20Hotel%20Costa%20Azul/P1%20-%20Chatbot%20Hotel%20Costa%20Azul_2.png)
 Tras finalizar el proyecto, he hecho con el una plantilla para poder compartirlo. Puedes acceder a ella a traves del siguiente [enlace](https://templates.landbot.io/hotel-costa-azul-5637/).
 
 Enlace para probar Chatbot para el hotel Costa Azul es [Chatbot Hotel](https://landbot.online/v3/H-3311903-K78FFBK92N2L0L4Y/index.html)
