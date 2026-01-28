@@ -1,6 +1,6 @@
 
 ![](000%20Assets/P1.%20Creación%20del%20Chatbot%20del%20Hotel%20Costa%20Azul/P1%20-%20Chatbot%20Hotel%20Costa%20Azul_2.png)
-Tras finalizar el proyecto, he hecho con el una plantilla para poder compartirlo. Puedes acceder a ella a traves del siguiente [enlace](https://templates.landbot.io/hotel-costa-azul-5639/).
+Tras finalizar el proyecto, he hecho con el una plantilla para poder compartirlo. Puedes acceder a ella a traves del siguiente [enlace](https://templates.landbot.io/hotel-costa-azul-5640/).
 
 Enlace para probar Chatbot para el hotel Costa Azul es [Chatbot Hotel](https://landbot.online/v3/H-3311903-K78FFBK92N2L0L4Y/index.html)
 
